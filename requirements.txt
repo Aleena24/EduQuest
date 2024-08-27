@@ -1,7 +1,0 @@
-crewai
-groq
-langchain-groq
-python-dotenv
-bcrypt
-streamlit
-streamlit-option-menu
